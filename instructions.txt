@@ -50,3 +50,12 @@ activamos el entorno virtual:
 instalamos dependencias necesarias
 pip3 install werkzeug
 pip3 install mysql-connector-python
+
+
+
+creamos carpeta u archivo principal init python
+
+
+hacemos una prueba sencilla de imprimir de
+
+export FLASK_APP=todo

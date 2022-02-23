@@ -1,3 +1,5 @@
 FirstPrjApp.code-workspace
 
 .vscode
+
+todo/__pycache__
