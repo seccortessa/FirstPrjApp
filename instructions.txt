@@ -41,3 +41,12 @@ git merge "name"
 para borrar una rama a la rama
 git branch -d name
 
+
+una vez el repo está subido correctamente, continuamos con el proyecto
+
+activamos el entorno virtual:
+. venv/bin/activate 
+
+instalamos dependencias necesarias
+pip3 install werkzeug
+pip3 install mysql-connector-python
