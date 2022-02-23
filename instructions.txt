@@ -1,0 +1,43 @@
+guardo workspace
+
+iniciar repositorio:
+
+git init
+
+
+
+hago mis primeras modificaciones:
+
+crear un proyecto de app con Flask y python como mi primer proyecto d Flask
+
+
+python3 -m venv venv
+
+
+con estas carpetas y archivos creados, puedo añadir y commit mi proyecto de
+
+git add .
+git commit -m "first commit"
+
+para añadir un solo archivo al stage de
+
+git add file.ext
+
+para entrar al menu de git es Ctrl+Shift+G
+
+git log --oneline  sirve para ver los estados de las últimas modificaciones
+
+
+git branch para ver las ramas actuales 
+
+git brach "name" para crear una nueva rama
+
+git checkout "name" para cambiar a la rama name
+
+para unir dos ramas es necesario estar siempre en la rama master
+
+git merge "name"
+
+para borrar una rama a la rama
+git branch -d name
+
